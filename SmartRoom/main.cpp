@@ -122,9 +122,6 @@ void envoyerDonnees()
     Serial.println("Donnees envoyees vers Blynk.");
 }
 
-// ======================================
-// INITIALISATION
-// ======================================
 
 void setup()
 {
